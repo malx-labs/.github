@@ -9,29 +9,37 @@
 ### **malx‑labs**
 **Malicious by Design**
 
-Offensive security tooling and malware research focused on execution,
-evasion, and real‑world adversary tradecraft.
-
-We build, break, and study hostile code paths to better understand how
-systems fail — and how they are actually exploited in the wild.
+Research into the mechanics of malicious execution, adversarial automation, and real‑world abuse of system behaviour.  
+Work spans payload execution, loader design, evasion, malformed‑file behaviour, and executable‑format edge‑case engineering.
 
 ---
 
-## Research Areas
-- Payload execution and post‑exploitation
-- Obfuscation, staging, and loaders
-- Malware behaviour and runtime analysis
-- Red‑team tooling and operator tradecraft
+## **Research Focus**
+
+### **Malicious Execution**
+- Payload execution and post‑exploitation  
+- Loader and stager design  
+- Obfuscation and transformation pipelines  
+- Evasion and runtime manipulation  
+- Adversarial automation  
+- Red‑team tradecraft and operator workflows  
+
+### **Security Research**
+- Parser robustness and malformed‑file behaviour  
+- Executable‑format edge‑case engineering  
+- Adversarial fixture generation (PAAX)  
+- Static-analysis and reverse‑engineering tool reliability studies  
 
 ---
 
-## Ethos
-- Toolmaker mindset
-- Research over marketing
-- Precision over noise
+## **Ethos**  
+- Toolmaker mindset  
+- Research over presentation  
+- Precision over noise  
 
 ---
 
 > ⚠️ **Warning**  
-> Projects hosted here are intended for **research and defensive improvement**.  
-> Use responsibly and only in environments you are authorised to test.
+> Projects here support **research and defensive understanding**.  
+> Use only in controlled environments you are authorised to test.
+
