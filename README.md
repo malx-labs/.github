@@ -9,7 +9,8 @@
 ### **malx‑labs**
 **Malicious by Design**
 
-Research into the mechanics of malicious execution, adversarial automation, and real‑world abuse of system behaviour.  
+Research into the mechanics of malicious execution, adversarial automation, and real‑world abuse of system behaviour.
+
 Work spans payload execution, loader design, evasion, malformed‑file behaviour, and executable‑format edge‑case engineering.
 
 ---
